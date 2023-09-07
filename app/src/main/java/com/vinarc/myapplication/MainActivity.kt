@@ -25,6 +25,7 @@ class MainActivity : ComponentActivity() {
                     Greeting("Android")
                     //first commit on new_feature
                     //second commit on new_feature
+                    //third commit on new_feature
                 }
             }
         }
