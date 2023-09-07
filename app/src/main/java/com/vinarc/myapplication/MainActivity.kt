@@ -26,6 +26,8 @@ class MainActivity : ComponentActivity() {
                     //first commit on new_feature
                     //second commit on new_feature
                     //third commit on new_feature
+                    //first commit on master
+                    //branch off first commit on master-1
                 }
             }
         }
